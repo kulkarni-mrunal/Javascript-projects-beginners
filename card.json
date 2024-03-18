@@ -1,0 +1,28 @@
+[
+    {
+        "name" : "Pune",
+        "image" : "https://images.unsplash.com/photo-1518541162457-d21f1884e10f?q=80&w=1550&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "`Pune`, known as the 'Oxford of the East,' is a city of culture and education. With its historical landmarks like Shaniwar Wada and natural beauty like Sinhagad Fort, Pune offers a blend of heritage and modernity, making it a vibrant destination."
+    },
+    {
+        "name": "Mumbai",
+        "image": "https://images.unsplash.com/photo-1562979314-bee7453e911c?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Mumbai, the 'City of Dreams,' is India's financial capital and home to Bollywood. With its bustling streets and iconic landmarks like the Gateway of India and Marine Drive, Mumbai epitomizes the spirit of ambition and diversity."
+    },
+    {
+        "name": "Delhi",
+        "image": "https://images.unsplash.com/photo-1587474260584-136574528ed5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Delhi, India's capital, is a vibrant blend of history and modernity. From the majestic Red Fort to the iconic India Gate and the towering Qutub Minar, Delhi boasts a rich cultural heritage and is a melting pot of cultures."
+    },
+    {
+        "name": "Bangalore",
+        "image": "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Bangalore, the 'Silicon Valley of India,' is renowned for its thriving IT industry and pleasant climate. With its lush parks, vibrant gardens, and cosmopolitan culture, Bangalore offers a dynamic lifestyle and abundant opportunities."
+    },
+    {
+        "name": "Kolkata",
+        "image": "https://images.pexels.com/photos/4334157/pexels-photo-4334157.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Kolkata, the 'City of Joy,' is known for its rich history, artistic heritage, and cultural festivals. From the iconic Howrah Bridge to the majestic Victoria Memorial and the vibrant celebrations of Durga Puja, Kolkata captivates visitors with its charm and warmth."
+    }
+   
+]
